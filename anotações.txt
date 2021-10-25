@@ -1,0 +1,6 @@
+etapas para um versionamento do git para a maquina:
+
+git clone <link SSH do git>
+após alterações ver status
+colocar documentação em sincronização
+fazendo o push do documento para o git 
